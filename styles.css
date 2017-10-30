@@ -1,0 +1,38 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+}
+
+.card {
+  width: 300px;
+  padding: 0 10px 10px;
+  border: 1px #d0cdcd solid;
+  box-shadow: 5px 5px #e8e5e5;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+img {
+  margin: 0 0 10px 0;
+}
+
+.description {
+  width: 268px;
+  padding: 0 15px 10px;
+  border: 1px #d0cdcd solid;
+}
+
+.interesting-fact {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li span {
+  font-weight: bold;
+}
